@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png?20181120160841" alt="Power BI" width="40" height="40"/>
+    <img src="https://www.canva.com/design/DAGbWSKN4r8/Dp2vzasFecsklEK7f0v2sA/view?utm_content=DAGbWSKN4r8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha1d2f421eb" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/138/659/png-transparent-tableau-software-hd-logo-thumbnail.png" alt="Tableau" width="40" height="40"/>
