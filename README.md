@@ -15,7 +15,10 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-SR&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-SR&theme=tokyonight" alt="GitHub Streak" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-SR&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-SR&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saurabh-SR" alt="Saurabh-SR" /></a> </p>
 
