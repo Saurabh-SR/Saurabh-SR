@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Suman</h1>
 <h3 align="center">Data Analyst in the Making | Python, SQL, Tableau and Power BI Specialist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-sr" alt="saurabh-sr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Saurabh-SR" alt="Saurabh-SR" /></a> </p>
 
 - 🌱 I’m currently learning **Power BI**
 
