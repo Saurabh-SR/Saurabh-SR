@@ -16,7 +16,7 @@
 <a href="https://leetcode.com/u/LE2ge2dMdF/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/LE2ge2dMdf/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">**📊 GitHub Stats**</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-SR&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-SR&theme=tokyonight" alt="GitHub Streak" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
